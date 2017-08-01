@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BeanUtilsTest/BeanUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BeanUtilsTest/MainTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BeanUtilsTest/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/BeanUtilsTest/PersonDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/enums/EntryLabelEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/enums/EntryPositionEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/enums/PlatformEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/service/EntryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/service/Impl/EntryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/test/java/com/dianping/midas/shopdiy/whale/biz/service/EntryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-service/src/main/resources/config/spring/local/shopdiy-whale-service-server.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/bean/EntryBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/controller/EntryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/controller/GreyController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/controller/PopupController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/enums/AccountTagEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/enums/EntryPositionEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/enums/OperateLogTypeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/enums/PlatformEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/resources/config/spring/local/shopdiy-whale-web-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
