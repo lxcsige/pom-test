@@ -3,7 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../ObjectTest/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom-test.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/rate_limiter.lua">
           <value>
             <set />
           </value>
@@ -28,7 +43,287 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/DistributedLock/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/GuavaBloomFilter/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/JDBCTest/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/JedisTest/PipelineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/JedisTest/RateLimiter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/JedisTest/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RateLimiter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RateLimiterTest/RateLimiter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RateLimiterTest/RateLimiter2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RateLimiterTest/RateLimiter3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/RateLimiterTest/rate_limiter.lua">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Snowflake/IdWorker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Snowflake/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/CheckEntityStatusJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/CheckPriceAndRemindCraneJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/FlushHotelBudgetJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/ImmigrateActivitiesJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/MarsLaunchValidatorJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/MarsPlanValidatorJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/craneJob/MigrateMarsEntityJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/dao/SystemLogDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/entity/MarsTargetEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/java/com/dianping/shopdiy/utils/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/resources/config/sqlmap/Launch.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-job/src/main/resources/config/sqlmap/SystemLog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-api/src/main/java/com/dianping/midas/shopdiy/cpc/api/service/CategoryCpcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-api/src/main/java/com/dianping/midas/shopdiy/cpc/api/service/LaunchActivityCpcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-api/src/main/java/com/dianping/midas/shopdiy/cpc/api/service/MarsPlanService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-api/src/main/java/com/dianping/midas/shopdiy/cpc/api/service/ShopCpcService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/ApolloAppServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/CategoryCpcServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/ConfigServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/LaunchActivityCpcServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/OperationLogServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/java/com/dianping/midas/shopdiy/cpc/biz/service/impl/ShopCpcServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-cpc-service/shopdiy-cpc-biz/src/main/resources/config/spring/local/shopdiy-cpc-biz-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/java/com/dianping/midas/shopdiy/mars/biz/rover/processor/CreativeProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/java/com/dianping/midas/shopdiy/mars/biz/rover/processor/EntityProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/java/com/dianping/midas/shopdiy/mars/biz/rover/processor/LaunchProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/java/com/dianping/midas/shopdiy/mars/biz/rover/processor/RoverProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/java/com/dianping/midas/shopdiy/mars/biz/rover/service/impl/CreativeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-mars-service/shopdiy-mars-biz/src/main/resources/config/ibatis/sqlmap/SystemLog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-report-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-report-web/shopdiy-report-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-report-web/shopdiy-report-web/src/main/java/com/dianping/midas/shopdiy/report/web/datareport/pc/ajax/QueryExpressReportTabsAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-sso/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-sso/src/main/java/com/dianping/midas/shopdiy/sso/utils/AdAccountSSOInfoUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-sso/src/main/resources/config/spring/local/shopdiy-sso-bean.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/dto/EntryDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/dto/EntryQueryDTO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/dto/GreyMatcher.java">
           <value>
             <set />
           </value>
@@ -48,12 +343,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/enums/ResultEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/service/EntryService.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-api/src/main/java/com/dianping/midas/shopdiy/whale/api/service/GreyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/dao/mysql/EntryDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/dao/mysql/TagShopRelationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/entity/mysql/EntryEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/processor/TagProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/service/Impl/EntryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/service/Impl/GreyServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/java/com/dianping/midas/shopdiy/whale/biz/service/Impl/TagServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/resources/config/mybatis/mysql/Entry.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-service/shopdiy-whale-biz/src/main/resources/config/mybatis/mysql/TagShopRelation.xml">
           <value>
             <set />
           </value>
@@ -74,6 +419,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/bean/EntryBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/controller/BudgetController.java">
           <value>
             <set />
           </value>
@@ -113,12 +463,232 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/java/com/dianping/midas/shopdiy/whale/web/util/SpringLocator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/resources/config/spring/local/shopdiy-whale-web-client.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/resources/config/spring/local/shopdiy-whale-web-core.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/resources/config/spring/local/shopdiy-whale-web-mvc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy-whale-web/src/main/resources/config/spring/local/shopdiy-whale-web-upm.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-biz/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/app/action/ajax/QueryPromoConditionsAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/app/action/cpc/CampaignBudgetAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/CheckBPAccessAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/QueryActivityCalendarAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/QueryBPCampaignAndLaunchAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/QueryBPDetailAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/QueryDealForBPAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/action/ajax/UpdateBPCampaignAndLaunchAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/bigPromotion/service/BPService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/common/action/BaseAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/common/action/QueryShopAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/common/service/ShopWebService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/ContentAjaxBaseAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/ModifyBudgetAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/PlanAndLaunchIndexAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/QueryContentAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/QueryEntryListAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/QueryPlanAndLaunchBasicInfoAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/QueryRecordAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/QueryShopProductsAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/action/ajax/UpdateCampaignAndLaunchAjax.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/beans/EntryResultBean.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/services/CampaignAndLaunchServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/cpc/services/CreativeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/services/CampaignAndLaunchService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/java/com/dianping/midas/shopdiy/web/promotion/utils/ServiceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/resources/config/spring/local/midas-shopdiy-web-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/resources/config/struts/struts-app-ajax.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../shopdiy/shopdiy-web/src/main/resources/config/struts/struts-promotion-cpc-ajax.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/BitmapTest/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/ConcurrentTest/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/DynamicProxy/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/DynamicProxy/ProxyHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/ExecuteOrderTest/Sex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/classTest/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../test/src/classTest/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>

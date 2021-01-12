@@ -1,0 +1,4 @@
+worker-id: 02401b4d-c4db-4a01-a10c-4ef544c5db56
+logs.users: []
+logs.groups: []
+topology.submitter.user: lxcfour

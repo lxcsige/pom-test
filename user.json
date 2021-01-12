@@ -1,0 +1,5 @@
+{
+  "name" : "linus",
+  "age" : 30,
+  "memo" : [ "memo1", "memo2" ]
+}
